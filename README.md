@@ -1,11 +1,11 @@
-# EAMdatabase
+# EASdatabase
 A relational database about the Greek Defence Systems, created using MySQL and MariaDB.
 
 The project consists of two SQL Txt files:
-1. ```EAMdbDump``` : contains the entire DB structure
+1. ```EASdbDump``` : contains the entire DB structure
 2. ```users``` : creates the users and grants them rights
 
-It also includes a MySQL Workbench file: ```EAMdb```. A folder with SQL query examples [queries](https://github.com/mcmaniou/EAMdatabase/tree/main/queries). And an [image](https://github.com/mcmaniou/EAMdatabase/blob/main/EAMdb.png) of the DB structure.
+It also includes a MySQL Workbench file: ```EASdb```. A folder with SQL query examples [queries](https://github.com/mcmaniou/EASdatabase/tree/main/queries). And an [image](https://github.com/mcmaniou/EASdatabase/blob/main/EASdb.png) of the DB structure.
 
 ### Entities
 * factory
